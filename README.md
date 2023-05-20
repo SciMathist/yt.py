@@ -8,8 +8,7 @@ A CLI-Application to download YouTube videos.
 - [@SciMathist](https://www.github.com/SciMathist)
 
 ## Screenshots
-
-![App Screenshot](https://i.ibb.co/4MXXLSC/Web-capture-20-5-2023-6840-replit-com.jpg)
+![App Screenshot](https://i.ibb.co/jGQQYwq/Web-capture-20-5-2023-6840-replit-com.jpg)
 
 
 ## License
