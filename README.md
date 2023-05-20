@@ -23,24 +23,6 @@ A CLI-Application to download YouTube videos.
  
 ## Run Locally
 
-Create a new virtual environment
-
-```bash
-  python -m venv myenv
-```
-
-Activate the virtual environment(On Windows)
-
-```bash
-  myenv\Scripts\activate
-```
-
-Activate the virtual environment(On Linux/macOS)
-
-```bash
- source myenv/bin/activate
-```
-
 Clone the project
 
 ```bash
@@ -57,6 +39,10 @@ Install dependencies
 
 ```bash
   pip install -r requirements.txt
+```
+Or,
+```bash
+  pip install pytube # preferred
 ```
 
 Run the application
