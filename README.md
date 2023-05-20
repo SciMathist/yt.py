@@ -23,6 +23,24 @@ A CLI-Application to download YouTube videos.
  
 ## Run Locally
 
+Create a new virtual environment
+
+```bash
+  python -m venv myenv
+```
+
+Activate the virtual environment(On Windows)
+
+```bash
+  myenv\Scripts\activate
+```
+
+Activate the virtual environment(On Linux/macOS)
+
+```bash
+ source myenv/bin/activate
+```
+
 Clone the project
 
 ```bash
@@ -45,6 +63,12 @@ Run the application
 
 ```bash
   python yt.py
+```
+
+Check the downloads
+
+```bash
+  ls # The file is downloaded in the same directory
 ```
 
 **To Uninstall dependencies
