@@ -25,7 +25,9 @@ A CLI-Application to download YouTube videos.
  - [Awesome README](https://github.com/matiassingers/awesome-readme)
  - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
 
-
+## Requirements
+ Python 3.6 or higher
+ 
 ## Run Locally
 
 Clone the project
