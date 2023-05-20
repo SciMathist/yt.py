@@ -63,6 +63,7 @@ Check the downloads
   pip uninstall -r requirements.txt
 ```
 
+[![Run on Repl.it](https://replit.com/~)
 
 ## Related
 
