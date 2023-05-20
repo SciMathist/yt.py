@@ -47,6 +47,12 @@ Run the application
   python yt.py
 ```
 
+**To Uninstall dependencies
+
+```bash
+  pip uninstall -r requirements.txt
+```
+
 
 ## Related
 
