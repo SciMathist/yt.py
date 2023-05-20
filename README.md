@@ -1,22 +1,66 @@
-# Project Name
 
-Welcome to the yt.py repository! This is a brief description of your project and its purpose.
+# Project yt.py(CLI)
 
-## Table of Contents
+A CLI-Application to download YouTube videos.
 
-- [Project Description](#project-description)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+## Authors
 
-## Project Description
+- [@SciMathist](https://www.github.com/SciMathist)
 
-Provide a detailed description of your project, its purpose, and any relevant information that would help users understand its functionality and potential benefits.
 
-## Installation
+## Screenshots
 
-Describe the steps required to install and set up the project. Include any dependencies that need to be installed, as well as any specific configuration instructions.
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
-```shell
-pip install -r requirements.txt
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+
+
+
+## Acknowledgements
+
+ - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+ - [Awesome README](https://github.com/matiassingers/awesome-readme)
+ - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/SciMathist/yt.py.git
+```
+
+Go to the project directory
+
+```bash
+  cd yt.py
+```
+
+Install dependencies
+
+```bash
+  pip install -r requirements.txt
+```
+
+Run the application
+
+```bash
+  python yt.py
+```
+
+
+## Related
+
+Here are yt.py webapp and telegram-bot projects:
+
+[Coming Soon...](https://www.github.com/SciMathist)
+
+
+![SciMathist](https://static.wixstatic.com/media/092dab_bd5b36c8346d44fd896b622b6e9c9a2a~mv2.jpg/v1/fill/w_370,h_100,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/image-removebgjpg.jpg)
+
