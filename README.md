@@ -10,7 +10,7 @@ A CLI-Application to download YouTube videos.
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot][(https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://replit.com/@SciMathist/ytpy#Web%20capture_20-5-2023_6840_replit.com.jpeg))
 
 
 ## License
